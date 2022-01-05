@@ -2,7 +2,7 @@
 - 👀 I’m interested in .net core
 - 🌱 I’m currently learning asp.net MVC, asp.net
 - 💞️ I’m looking to collaborate on .net core and azure
-- 📫 How to reach me ...
+- 📫 How to reach me sraghu717@gmail.com
 
 <!---
 raghu717/raghu717 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
